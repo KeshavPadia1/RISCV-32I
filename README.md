@@ -24,7 +24,7 @@ t1_riscv_cpu
 └── data_mem
 ```
 
-## 11. References
+## References
  
 - *The RISC-V Instruction Set Manual, Volume I: Unprivileged ISA* — RISC-V International.
 - Harris & Harris, *Digital Design and Computer Architecture: RISC-V Edition* — single-cycle processor organisation.
